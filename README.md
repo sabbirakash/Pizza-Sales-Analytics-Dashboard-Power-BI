@@ -207,3 +207,6 @@ The model consists of:
 - Interactive slicers connected across the report
 
 ### Data Model Structure
+orders (1) ──── (M) order_details
+pizzas (1) ──── (M) order_details
+pizza_types (1) ── (M) pizzas
