@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Analytics Dashboard | Power BI
 
 <p align="center">
-  <img src="https://github.com/yourusername/Pizza-Sales-Analytics-Power-BI-Dashboard-Project/blob/main/Images/Pizza%20Sales%20Analytics%20Banner.png">
+  <img src="https://github.com/sabbirakash/Pizza-Sales-Analytics-Dashboard-Power-BI/blob/main/Images/Pizza%20Model%20Banner.png">
 </p>
 
 <p align="center">
@@ -146,13 +146,7 @@ The dashboard is built using a pizza sales dataset containing order-level transa
 ## Main Dashboard
 
 <p align="center">
-<img src="https://github.com/yourusername/Pizza-Sales-Analytics-Power-BI-Dashboard-Project/blob/main/Images/Main%20Dashboard.png" width="100%">
-</p>
-
-## Best/Worst Sellers Analysis
-
-<p align="center">
-<img src="https://github.com/yourusername/Pizza-Sales-Analytics-Power-BI-Dashboard-Project/blob/main/Images/Best%20Worst%20Sellers.png" width="100%">
+<img src="https://github.com/sabbirakash/Pizza-Sales-Analytics-Dashboard-Power-BI/blob/main/Images/Pizza%20Model%20Dashboard.png" width="100%">
 </p>
 
 The dashboard provides a comprehensive view of pizza sales performance, including key revenue metrics, sales trends by day and hour, category-wise distribution, and top/bottom performing pizzas.
@@ -295,7 +289,7 @@ The report consists of one comprehensive interactive dashboard designed for sale
 ## 1️⃣ Pizza Sales Analytics Dashboard
 
 <p align="center">
-<img src="https://github.com/yourusername/Pizza-Sales-Analytics-Power-BI-Dashboard-Project/blob/main/Images/Main%20Dashboard.png" width="100%">
+<img src="https://github.com/sabbirakash/Pizza-Sales-Analytics-Dashboard-Power-BI/blob/main/Images/Pizza%20Model%20Dashboard.png" width="100%">
 </p>
 
 ### 🎯 Purpose
